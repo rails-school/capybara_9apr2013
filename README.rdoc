@@ -1,0 +1,3 @@
+== BDD Class
+
+Capybar + Rspec integration testing
